@@ -1,0 +1,11 @@
+.social {
+	display: flex;
+	list-style-type: none;
+	font-size: 25px;
+	justify-content: center;
+	background-color: #eee;
+}
+
+.copyright {
+	background-color: #eee;
+}
