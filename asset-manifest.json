@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RateYourSkills/static/css/main.b95446fc.css",
+    "main.js": "/RateYourSkills/static/js/main.989385a7.js",
+    "static/js/787.aa720270.chunk.js": "/RateYourSkills/static/js/787.aa720270.chunk.js",
+    "index.html": "/RateYourSkills/index.html",
+    "main.b95446fc.css.map": "/RateYourSkills/static/css/main.b95446fc.css.map",
+    "main.989385a7.js.map": "/RateYourSkills/static/js/main.989385a7.js.map",
+    "787.aa720270.chunk.js.map": "/RateYourSkills/static/js/787.aa720270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95446fc.css",
+    "static/js/main.989385a7.js"
+  ]
+}
