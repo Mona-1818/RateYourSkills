@@ -1,0 +1,15 @@
+.footer {
+    width: 100%;
+    background-color: #eee;
+}
+
+.footer_copyright {
+    font-family: cursive;
+}
+
+.footer_social svg {
+    color: #9E1AA8;
+    margin: 0.5rem;
+    font-size: 25px;
+    cursor: pointer;
+}
