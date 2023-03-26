@@ -11,17 +11,15 @@ const Homescreen = () => {
     const [toggleMenu, setToggleMenu] = useState(false);
 
     return (
-        // <div className='homescreen'>
         // HomeScreen Background Image
         <div className='bg-image'
-            style={{
-                backgroundImage: 'url(' + bg + ')',
-                backgroundSize: 'cover',
-                backgroundRepeat: 'no-repeat',
-                height: "110vh",
-            }}
+        style={{
+            backgroundImage: 'url(' + bg + ')',
+            backgroundSize: 'cover',
+            backgroundRepeat: 'no-repeat',
+            height: "100vh",
+        }}
         >
-
             <nav className="navbar">
                 <div className="navbar-logo">
                     <img src={logo} alt="app logo" />
@@ -51,8 +49,8 @@ const Homescreen = () => {
 
             {/* HomeScreen Content */}
             <div className='homescreen_content'>
-                <h1 className='homescreen_header'> Mission to Deep Skill </h1>
-                <p className='homescreen_para'> RateYourSkills is a skill assessment platform used to upgrade, improve, and boost confidence by achieving a higher score in a desired test. It is an objective platform that verifies and assesses a candidate's competencies.
+                <h1> Mission to Deep Skill </h1>
+                <p> RateYourSkills is a skill assessment platform used to upgrade, improve, and boost confidence by achieving a higher score in a desired test. It is an objective platform that verifies and assesses a candidate's competencies.
                     <div className="rate">
                         <a className="items"> 250K+ User Enrolled </a>
                         <div />
